@@ -1,0 +1,15 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 16 19:14:04 IST 2023
+@default-spring-roo-repository-http\://spring-roo-repository.springsource.org/release/.lastUpdated=1673876641744
+http\://nexus.pentaho.org/content/groups/omni/.error=Could not transfer artifact org.springframework.security.extensions\:spring-security-saml2-core\:jar\:1.0.10.RELEASE from/to Pentaho (http\://nexus.pentaho.org/content/groups/omni)\: Transfer failed for http\://nexus.pentaho.org/content/groups/omni/org/springframework/security/extensions/spring-security-saml2-core/1.0.10.RELEASE/spring-security-saml2-core-1.0.10.RELEASE.jar 503 Service Temporarily Unavailable
+https\://github.com/HexagonGlobal/mvn-repo-demo/raw/master/.lastUpdated=1673876633337
+https\://artifacts.alfresco.com/nexus/content/repositories/public/.lastUpdated=1673876643685
+https\://artifacts.alfresco.com/nexus/content/repositories/public/.error=
+@default-Pentaho-http\://nexus.pentaho.org/content/groups/omni/.lastUpdated=1673876639405
+http\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact org.springframework.security.extensions\:spring-security-saml2-core\:jar\:1.0.10.RELEASE from/to spring-roo-repository (http\://spring-roo-repository.springsource.org/release)\: Authorization failed for http\://spring-roo-repository.springsource.org/release/org/springframework/security/extensions/spring-security-saml2-core/1.0.10.RELEASE/spring-security-saml2-core-1.0.10.RELEASE.jar 403 Forbidden
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.springframework.security.extensions\:spring-security-saml2-core\:jar\:1.0.10.RELEASE from/to spring-maven-release (http\://maven.springframework.org/release)\: Transfer failed for http\://maven.springframework.org/release/org/springframework/security/extensions/spring-security-saml2-core/1.0.10.RELEASE/spring-security-saml2-core-1.0.10.RELEASE.jar
+https\://repo.maven.apache.org/maven2/.lastUpdated=1673876644613
+https\://github.com/HexagonGlobal/mvn-repo-demo/raw/master/.error=
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.error=
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1673876636513
+@default-spring-maven-release-http\://maven.springframework.org/release/.lastUpdated=1673876639560
