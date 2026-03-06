@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 18 18:30:56 IST 2023
+@default-spring-roo-repository-http\://spring-roo-repository.springsource.org/release/.lastUpdated=1674046856400
+http\://nexus.pentaho.org/content/groups/omni/.error=Could not transfer artifact janino\:janino\:jar\:sources\:2.5.16 from/to Pentaho (http\://nexus.pentaho.org/content/groups/omni)\: Failed to transfer file\: http\://nexus.pentaho.org/content/groups/omni/janino/janino/2.5.16/janino-2.5.16-sources.jar. Return code is\: 503 , ReasonPhrase\:Service Temporarily Unavailable.
+https\://github.com/HexagonGlobal/mvn-repo-demo/raw/master/.lastUpdated=1674046853126
+@default-Pentaho-http\://nexus.pentaho.org/content/groups/omni/.lastUpdated=1674046855890
+http\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact janino\:janino\:jar\:sources\:2.5.16 from/to spring-roo-repository (http\://spring-roo-repository.springsource.org/release)\: Access denied to\: http\://spring-roo-repository.springsource.org/release/janino/janino/2.5.16/janino-2.5.16-sources.jar , ReasonPhrase\:Forbidden.
+http\://maven.springframework.org/release/.error=Could not transfer artifact janino\:janino\:jar\:sources\:2.5.16 from/to spring-maven-release (http\://maven.springframework.org/release)\: maven.springframework.org
+https\://repo.maven.apache.org/maven2/.lastUpdated=1674046852615
+https\://repo.maven.apache.org/maven2/.error=
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1674046854664
+https\://github.com/HexagonGlobal/mvn-repo-demo/raw/master/.error=
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.error=
+@default-spring-maven-release-http\://maven.springframework.org/release/.lastUpdated=1674046855946
