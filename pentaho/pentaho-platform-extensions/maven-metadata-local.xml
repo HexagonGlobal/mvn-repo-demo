@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>pentaho-kettle</groupId>
-  <artifactId>kettle-engine</artifactId>
+  <groupId>pentaho</groupId>
+  <artifactId>pentaho-platform-extensions</artifactId>
   <versioning>
     <release>9.3</release>
     <versions>
       <version>9.3</version>
     </versions>
-    <lastUpdated>20251227145219</lastUpdated>
+    <lastUpdated>20251227145206</lastUpdated>
   </versioning>
 </metadata>
